@@ -19,7 +19,7 @@ Fpv planes, drones, cars  etc.
 
 # Connections
 A connection with radio transmitter required (has been tested with radiomaster TX16s).
-Connect a small esp32 board with the uart port of the TX16s. (telemtetry mirror).
+Connect a small esp32 board with the uart port of the TX16s. (telemetry mirror).
 https://www.waveshare.com/wiki/ESP32-S3-Zero
 
 
@@ -31,8 +31,8 @@ Download all files and extract them to your pc into a single directory. For exam
 
 2.Double Click the esp32_File_1.bat for plane 1.This will flash the esp32 board for 1st plane.
 
-3.Double Click the esp32_File_2.bat for plane 2.This will flash the esp32 board for 2nd plane and so on.
-Up to five planes can be binded.
+3.Double Click the esp32_File_2.bat for plane 2.This will flash the esp32 board for 2nd plane.
+  Only two planes permmited at the moment.
 
 # Photos
 
