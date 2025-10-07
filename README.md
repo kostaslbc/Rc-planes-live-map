@@ -3,7 +3,7 @@ Android application for viewing rc planes in real map
 
 # Description
 
-Τhis project is related to the pilot’s ability to monitor the flight path of his rc plane on a map via a mobile phone in real time !
+With this project the pilot has the ability to monitor the flight path of his rc plane on a map via a mobile phone in real time !
 The pilot connects through a small ESP32 board linked to their transmitter (TX16 and others).
 
 Using the Android application, the pilot can view the planes’s route as well as the positions of real airplanes flying in the area, helping to avoid potential hazards. No adsb required !
@@ -32,7 +32,7 @@ Download all files and extract them to your pc into a single directory. For exam
 2.Double Click the esp32_File_1.bat for plane 1.This will flash the esp32 board for 1st plane.
 
 3.Double Click the esp32_File_2.bat for plane 2.This will flash the esp32 board for 2nd plane.
-  Only two planes permmited at the moment.
+  Only two planes permited at the moment.
 
 # Photos
 
@@ -40,6 +40,7 @@ Download all files and extract them to your pc into a single directory. For exam
 
 
 
+![Screenshot_2025-10-02-12-11-25-458_com example tx16map](https://github.com/user-attachments/assets/a2c94be7-645e-4272-b4dd-a893a10ff6c3)
 
 
 
