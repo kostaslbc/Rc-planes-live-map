@@ -28,8 +28,11 @@ https://www.waveshare.com/wiki/ESP32-S3-Zero
 Download all files and extract them to your pc into a single directory. For example C:\\live_map.
 
 1.Copy the android aplication file (APK) "TX16S_Live_Map.apk" to your phone and install it.
+
 2.Double Click the esp32_File_1.bat for plane 1.This will flash the esp32 board for 1st plane.
-3.Double Click the esp32_File_2.bat for plane 2.This will flash the esp32 board for 2nd plane.
+
+3.Double Click the esp32_File_2.bat for plane 2.This will flash the esp32 board for 2nd plane and so on.
+Up to five planes can be binded.
 
 # Photos
 
