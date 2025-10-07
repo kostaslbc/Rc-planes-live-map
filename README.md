@@ -39,8 +39,9 @@ Download all files and extract them to your pc into a single directory. For exam
 
 
 
+![Screenshot_2025-10-02-12-11-25-458_com example tx16map](https://github.com/user-attachments/assets/1c8875e0-9d4f-4cdd-a4b2-7fb37b2d34a8)
 
-![Screenshot_2025-10-02-12-11-25-458_com example tx16map](https://github.com/user-attachments/assets/a2c94be7-645e-4272-b4dd-a893a10ff6c3)
+
 
 
 
