@@ -1,6 +1,8 @@
 # Rc-planes-live-map
 Android application for viewing rc planes in real map
 
+# Description
+
 Τhis project is related to the pilot’s ability to monitor the flight path of his rc plane on a map via a mobile phone in real time !
 The pilot connects through a small ESP32 board linked to their transmitter (TX16 and others).
 
@@ -9,8 +11,20 @@ Additionally, the system can connect with other transmitters located nearby to e
 
 Anyone who has the application installed, and logged in as a registrated user, will be able to view the flight of all binded rc planes in real time !
 An additional feature is that, as mentioned, multiple pilots can connect with each other to fly in formation or engage in chasing, allowing them to “locate each other.” 
-The screen includes a dashboard that displays the distance and altitude of the two aircraft, while an audio alert is also provided so pilots don’t have to constantly look at their phone.
+The screen includes a dashboard that displays the distance and altitude of the two aircraft, while an audio proximity alert is also provided so pilots don’t have to constantly look at their phone.
 The mobile application is still under development, and more features will be added later.
+
+# Target Frames  
+Fpv planes, drones, cars  etc. 
+
+# Connections
+A connection with radio transmitter required (has been tested with radiomaster TX16s).
+Connect a small esp32 board with the uart port of the TX16s. (telemtetry mirror).
+https://www.waveshare.com/wiki/ESP32-S3-Zero
+
+
+
+
 
 
 
