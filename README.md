@@ -26,6 +26,7 @@ https://www.waveshare.com/wiki/ESP32-S3-Zero
 
 ![Screenshot 2025-10-07 124621](https://github.com/user-attachments/assets/4522bbd9-6ea7-4dd8-a557-24255c06dc51)
 
+![554684489_769092782700903_7051011379204222250_n](https://github.com/user-attachments/assets/c7002690-f13f-4fef-b4d2-5a4a5e5ac588)
 
 
 
