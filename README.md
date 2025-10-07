@@ -22,6 +22,11 @@ A connection with radio transmitter required (has been tested with radiomaster T
 Connect a small esp32 board with the uart port of the TX16s. (telemetry mirror).
 https://www.waveshare.com/wiki/ESP32-S3-Zero
 
+![Untitled](https://github.com/user-attachments/assets/ed2c3375-fcf4-490c-9bae-6a5e4e2d6a97)
+
+![Screenshot 2025-10-07 124621](https://github.com/user-attachments/assets/4522bbd9-6ea7-4dd8-a557-24255c06dc51)
+
+
 
 
 # How to install
