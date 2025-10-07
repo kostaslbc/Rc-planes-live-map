@@ -39,7 +39,9 @@ Download all files and extract them to your pc into a single directory. For exam
 
 3.Double Click the esp32_File_2.bat for plane 2.This will flash the esp32 board for 2nd plane.
 
-Only two planes permited at the moment.
+4.Double Click the esp32_File_3.bat for plane 3.This will flash the esp32 board for 3rd plane.
+
+Only two planes as formation permitted at the moment but 3 or more for live tracking.
 
 # Photos
 
