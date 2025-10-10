@@ -18,7 +18,7 @@ The mobile application is still under development, and more features will be add
 Fpv planes, drones, cars  etc. 
 
 # Connections
-A connection with radio transmitter required (has been tested with radiomaster TX16s).
+A connection with radio transmitter required (has been tested with radiomaster TX16s) for EACH pilot.
 Connect a small esp32 board with the uart port of the TX16s. (telemetry mirror).
 https://www.waveshare.com/wiki/ESP32-S3-Zero
 
