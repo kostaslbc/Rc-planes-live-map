@@ -57,7 +57,7 @@ Team Leader
 
 Buddies
 
-  Buddies should use the username and password of Team Leader in order login at see all the connected rc planes on the map.  
+  Buddies should use the username and password of Team Leader in order to login so that can see all the connected rc planes on the map.  
 
 
 
