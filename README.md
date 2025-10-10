@@ -41,10 +41,25 @@ Download all files and extract them to your pc into a single directory. For exam
 
 4.Double Click the esp32_File_3.bat for plane 3.This will flash the esp32 board for 3rd plane.
 
-Only two planes as formation permitted at the moment but 3 or more for live tracking.
+Only two planes as formation permitted at the moment but more than one for live tracking.
+
+# How to use
+After firmware upload to all boards , open TX16s Live Map to your phone.
+
+Click Settings -> Create Account. Check e-mail for verification link.
+
+Team Leader
+
+  Team Leader should click Scan BLE devices and wait for LoraGPSxxx device.He must choose the device LoraGPS1 for the first plane (TX16s)
+  and do the same (Scan BLE devices) for his  buddies devices also. (LoraGPS2 etc).
+  After every succesfull connection the Team Leader should see all the rc planes (connected TX16s) on the map.
+
+Buddies
+  Buddies should use the username and password of Team Leader in order login at see all the connected rc planes on the map.  
+
+
 
 # Photos
-
 
 
 
