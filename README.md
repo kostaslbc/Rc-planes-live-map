@@ -50,8 +50,8 @@ Click Settings -> Create Account. Check e-mail for verification link.
 
 Team Leader
 
-  Team Leader should click Scan BLE devices and wait for LoraGPSxxx device.He must choose the device LoraGPS1 for the first plane (TX16s)
-  and do the same (Scan BLE devices) for his  buddies devices also. (LoraGPS2 etc).
+  Team Leader should click Scan BLE devices and wait for RC_Planexxx device.He must choose the device RC_plane1 for the first plane (TX16s)
+  and do the same (Scan BLE devices) for his  buddies devices also. (RC_Plane2 etc).
   After every succesfull connection the Team Leader should see all the rc planes (connected TX16s) on the map.
   
 
