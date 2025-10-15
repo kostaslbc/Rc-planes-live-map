@@ -35,11 +35,11 @@ Download all files and extract them to your pc into a single directory. For exam
 
 1.Copy the android aplication file (APK) "TX16S_Live_Map.apk" to your phone and install it.
 
-2.Double Click the esp32_File_1.bat for plane 1.This will flash the esp32 board for 1st plane.
+2.Double Click the Flash_esp32_ELRS_plane_1.bat .This will flash the esp32 board for 1st plane.
 
-3.Double Click the esp32_File_2.bat for plane 2.This will flash the esp32 board for 2nd plane.
+3.Double Click the Flash_esp32_ELRS_plane_2.bat .This will flash the esp32 board for 2nd plane.
 
-4.Double Click the esp32_File_3.bat for plane 3.This will flash the esp32 board for 3rd plane.
+4.Double Click the Flash_esp32_ELRS_plane_3.bat .This will flash the esp32 board for 3rd plane.
 
 Only two planes as formation permitted at the moment but more than one for live tracking.
 
