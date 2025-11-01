@@ -65,6 +65,30 @@ Buddies
 
 
 
+https://github.com/user-attachments/assets/447520c9-cc5c-459a-9081-d615666e75ee
+
+
+
+https://github.com/user-attachments/assets/2342b12d-ccee-42e7-826d-ca544ae1139f
+
+
+
+https://github.com/user-attachments/assets/b9a3f4f6-06bb-4c0e-a8f9-6764e2982a8d
+
+
+
+https://github.com/user-attachments/assets/e9a35b9f-e460-4891-9d0e-eacb9457ebed
+
+
+
+https://github.com/user-attachments/assets/198c3038-17d8-4a29-a583-26a186d3ce8c
+
+
+
+https://github.com/user-attachments/assets/a080961d-79eb-412a-9364-df42da0fe5be
+
+
+
 ![Screenshot_2025-10-02-12-11-25-458_com example tx16map](https://github.com/user-attachments/assets/1c8875e0-9d4f-4cdd-a4b2-7fb37b2d34a8)
 
 
