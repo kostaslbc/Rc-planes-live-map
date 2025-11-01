@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/9ce4a056-5358-4cda-9d3e-5eaa73cf3263
+
+
+
 # Rc-planes-live-map
 Android application for viewing rc planes in real map
 
